@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)-->
 [![Linkedin Badge](https://img.shields.io/badge/-RoshanKumar143-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)](https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)-->
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Roshan Kumar Kudumula-yellow)](https://stackoverflow.com/users/22400293/roshan-kumar-kudumula)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-RoshanKumarKudumula-yellow)](https://stackoverflow.com/users/22400293/roshan-kumar-kudumula)
 
 I'm
 Full Stack Developer with good knowlwdge on 
