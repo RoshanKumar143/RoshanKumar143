@@ -22,18 +22,16 @@ Here are some ideas to get you started:
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)-->
 [![Website Badge](https://img.shields.io/badge/StackOverflow-RoshanKumarKudumula-yellow)](https://stackoverflow.com/users/22400293/roshan-kumar-kudumula)
 
-I'm
-Full Stack Developer with good knowlwdge on 
-Frontend Technologies|HTML,CSS,JavaScript,Bootstrap. 
-Backend Technologies |Python Programming Language - Core & Advanced
-Databases | MySQL,PostgreSQL
+I'm Full Stack Developer with good knowlwdge on Frontend Technologies|HTML,CSS,JavaScript,Bootstrap. 
+Backend Technologies |Python Programming Language - Core & Advanced.
+Databases | MySQL,PostgreSQL.
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/RoshanKumar143/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=RoshanKumar143&column=7"/>
   </a>
 </div>
 
