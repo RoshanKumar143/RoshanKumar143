@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **RoshanKumar143/RoshanKumar143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--### Hi Developers 👋-->
+### Hi Developers 👋
 
 <!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)-->
 [![Linkedin Badge](https://img.shields.io/badge/-RoshanKumar143-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)](https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)-->
-<!--[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)-->
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/22400293/roshan-kumar-kudumula)
 
 I'm
 Full Stack Developer with good knowlwdge on 
@@ -28,14 +28,14 @@ Frontend Technologies|HTML,CSS,JavaScript,Bootstrap.
 Backend Technologies |Python Programming Language - Core & Advanced
 Databases | MySQL,PostgreSQL
 
-<!--![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)-->
+![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
-<!--<div>
+<div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
-</div>-->
+</div>
 
 Languages and Tools: 
 
