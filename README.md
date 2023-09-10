@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)-->
 [![Website Badge](https://img.shields.io/badge/StackOverflow-RoshanKumarKudumula-yellow)](https://stackoverflow.com/users/22400293/roshan-kumar-kudumula)
 
-I'm Full Stack Developer with good knowlwdge on Frontend Technologies|HTML,CSS,JavaScript,Bootstrap. 
-Backend Technologies |Python Programming Language - Core & Advanced.
+I'm Full Stack Developer with good knowledge on Frontend Technologies|HTML,CSS,JavaScript,Bootstrap.<br/> 
+Backend Technologies |Python Programming Language - Core & Advanced.<br/>
 Databases | MySQL,PostgreSQL.
 
 ![Visitor Count](https://profile-counter.glitch.me/RoshanKumar143/count.svg)
