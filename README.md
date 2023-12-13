@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)-->
 [![Website Badge](https://img.shields.io/badge/StackOverflow-RoshanKumarKudumula-yellow)](https://stackoverflow.com/users/22400293/roshan-kumar-kudumula)
 
-I'm Full Stack Developer with good knowledge on Frontend Technologies|HTML,CSS,JavaScript,Bootstrap.<br/> 
+I'm Full Stack Developer with good knowledge on Frontend Technologies|HTML,CSS,React,Bootstrap.<br/> 
 Backend Technologies |Python Programming Language - Core & Advanced, Node.js, Express.js<br/>
 Databases | MySQL,PostgreSQL,MongoDB
 
