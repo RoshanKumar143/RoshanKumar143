@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi Developers 👋
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ....
 <!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)-->
 [![Linkedin Badge](https://img.shields.io/badge/-RoshanKumar143-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)](https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)-->
