@@ -37,8 +37,9 @@ Languages and Tools:
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
-
+<!--
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=RoshanKumar143&theme=react-dark&hide_border=true&area=true)
+-->
 
 <details open="">
 <summary>
