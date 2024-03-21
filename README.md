@@ -1,5 +1,6 @@
 ### Hi Developers I am RK Kudumula👋
 - 🌱 I’m currently looking for an opportunity ....
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> React Technology
 
 [![Linkedin Badge](https://img.shields.io/badge/-RoshanKumar143-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)](https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)
 
