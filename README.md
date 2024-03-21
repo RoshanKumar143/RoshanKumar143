@@ -1,30 +1,15 @@
-<!--### Hi there 👋-->
-
-<!--
-**RoshanKumar143/RoshanKumar143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi Developers 👋
+### Hi Developers I am RK Kudumula👋
 - 🌱 I’m currently looking for an opportunity ....
-<!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)-->
+
 [![Linkedin Badge](https://img.shields.io/badge/-RoshanKumar143-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)](https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)
-<!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)-->
+
 [![Website Badge](https://img.shields.io/badge/StackOverflow-RoshanKumarKudumula-yellow)](https://stackoverflow.com/users/22400293/roshan-kumar-kudumula)
 
 I'm Full Stack Developer with good knowledge on Frontend Technologies|HTML,CSS,React,Bootstrap.<br/> 
 Backend Technologies |Python Programming Language - Core & Advanced, Node.js, Express.js<br/>
 Databases | MySQL,PostgreSQL,MongoDB
+
+--
 
 ![Visitor Count](https://profile-counter.glitch.me/RoshanKumar143/count.svg)
 
