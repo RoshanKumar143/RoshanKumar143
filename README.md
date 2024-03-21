@@ -21,6 +21,8 @@ Visitor Count :
   </a>
 </div>
 
+---
+
 Languages and Tools: 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
