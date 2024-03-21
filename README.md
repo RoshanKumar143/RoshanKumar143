@@ -10,6 +10,7 @@ Backend Technologies |Python Programming Language - Core & Advanced, Node.js, Ex
 Databases | MySQL,PostgreSQL,MongoDB
 
 ---
+Visitor Count :
 
 ![Visitor Count](https://profile-counter.glitch.me/RoshanKumar143/count.svg)
 
