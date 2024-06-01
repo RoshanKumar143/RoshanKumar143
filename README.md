@@ -1,7 +1,9 @@
 ### Hi Developers I am RK Kudumula👋
 - 🌱 I’m currently looking for an opportunity ....
--  :books: I’m currently learning <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> Technology
-
+<!-- -  :books: I’m currently learning <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> Technology  -->
+- I'm currently working on Sowflake Data Warehouse with AWS RedShift Cloud PLatforms.
+- Deep Dive into Structured Query Language. Working with Query's for data fetching from tables. 
+   
 [![Linkedin Badge](https://img.shields.io/badge/-RoshanKumar143-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)](https://www.linkedin.com/in/roshan-kumar-kudumula-7b6a47241/)
 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-RoshanKumarKudumula-yellow)](https://stackoverflow.com/users/22400293/roshan-kumar-kudumula)
