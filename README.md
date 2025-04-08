@@ -1,6 +1,8 @@
 ### 👋 Developers, I am Roshan Kumar Kudumula 💼🏛️💲🌐📈
 
-- 🌱 I’m currently looking for an opportunity ....
+- 🌱 I am currently working in the banking domain, focusing on compliance, managing alerts, and addressing exceptions to ensure regulatory adherence and smooth operational processes.
+
+<!-- -  I’m currently looking for an opportunity ....  -->
 <!--  :books: I’m currently learning <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> Technology   -->
 - I'm currently dealing with SQL, Tableau works working for banking.
 - Sowflake Data Warehouse <img src="https://www.altexsoft.com/static/blog-post/2023/11/28355c17-66ff-4d9d-b052-8bd798c62c62.webp"> with AWS RedShift Cloud PLatforms.
