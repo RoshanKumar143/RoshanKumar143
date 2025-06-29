@@ -1,4 +1,4 @@
-### 👋 Developers, I am Roshan Kumar Kudumula 💼🏛️💲🌐📈
+### 👋 Developers, I am Roshan Kumar Kudumula 💼🏛️💲🌐📈 
 
 - 🌱 I am currently working in the banking domain, focusing on compliance, managing alerts, and addressing exceptions to ensure regulatory adherence and smooth operational processes.
 
