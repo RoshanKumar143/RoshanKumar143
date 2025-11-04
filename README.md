@@ -33,7 +33,10 @@ Visitor Count :
 Languages and Tools: 
 
 <img src="https://res.cloudinary.com/hevo/image/upload/c_scale,w_848,h_476/f_webp,q_auto/v1685808289/hevo-blog-3/snowflake-architecture.png?_i=AA">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://store-images.s-microsoft.com/image/apps.33992.cda9b080-72c2-4b18-9847-0f8b5d3a9403.23a4bbb5-59ee-4ad1-b004-1aad7c14a4a1.a37adcb4-7944-43a3-ac43-09f8dc6487d5" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1280px; height: 400px; margin: 0px; width: 711px;" alt="Microsoft Azure Marketplace" jsname="kn3ccd">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
